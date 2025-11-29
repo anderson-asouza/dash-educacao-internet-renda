@@ -1,0 +1,9 @@
+## Como instalar este ambiente:
+## pip install -r requirements.txt
+
+streamlit
+pandas
+plotly
+scikit-learn
+geobr
+geopandas
